@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "nombre": "Harry",
+        "email": "harry@bluweb.cl",
+        "estado": true
+    },
+    {
+        "id": 2,
+        "nombre": "Cristian",
+        "email": "cristian@bluweb.cl",
+        "estado": false
+    },
+    {
+        "id": 3,
+        "nombre": "Mariana",
+        "email": "mariana@bluweb.cl",
+        "estado": true
+    },
+    {
+        "id": 4,
+        "nombre": "Crisostomo",
+        "email": "crisostomo@bluweb.cl",
+        "estado": true
+    },
+    {
+        "id": 5,
+        "nombre": "Agripino",
+        "email": "agripino@bluweb.cl",
+        "estado": false
+    }
+]
